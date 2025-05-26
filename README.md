@@ -23,13 +23,13 @@ RhyFeel은 소리를 ‘보게’ 하고, ‘느끼게’ 함으로써
 - 🎨 **3D 시각화**  
   - 음악 리듬에 따라 실시간으로 형태 변화 (Three.js + Shader)
 
-- 🤝 **손목 진동 피드백**  
+- 📳 **손목 진동 피드백**  
   - 진동 모터 4개가 음악 강약에 맞춰 즉각 반응 (ESP32 + Web Serial)
 
 - ✋ **제스처 기반 제어**  
   - 손 펼치면 재생, 주먹 쥐면 정지 (MediaPipe Hands 활용)
 
-- 💡 **웹에서 즉시 실행**  
+- 🚀 **웹에서 즉시 실행**  
   - 설치 없이, 브라우저에서 바로 체험 가능 → [rhyfeel.site](https://rhyfeel.site)
 
 ---
@@ -64,7 +64,7 @@ RhyFeel은 소리를 ‘보게’ 하고, ‘느끼게’ 함으로써
 
 ---
 
-## 🙌 핵심 가치
+## 🎯 핵심 가치
 
 - **청각장애인의 음악 감상 접근성 향상**
 - **시각 + 촉각 통합**으로 몰입형 감각 경험 제공
@@ -75,13 +75,13 @@ RhyFeel은 소리를 ‘보게’ 하고, ‘느끼게’ 함으로써
 
 ## 📄 발표 자료
 
-▶️ [2024_RhyFeel_Presentation.pdf](./2024_RhyFeel_Presentation.pdf)
+👉 [2024_RhyFeel_Presentation.pdf](./2024_RhyFeel_Presentation.pdf)
 
 ---
 
 ## 🔗 웹사이트
 
-👉 [https://rhyfeel.site](https://rhyfeel.site)
+📌 [https://rhyfeel.site](https://rhyfeel.site)
 
 > USB로 디바이스 연결 후, 음악 파일을 업로드해보세요.  
 > 음악이 눈으로, 손목으로 ‘들립니다’.
